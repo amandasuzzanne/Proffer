@@ -227,3 +227,20 @@ footer a {
         width: 100%;
     }
 }
+
+.back-to-top {
+    position: fixed;
+    bottom: 48px;
+    right: 20px;
+}
+
+.back-to-top img {
+    width: 50px; 
+    height: auto; 
+    border-radius: 5px;
+}
+
+/* change the background color */
+.back-to-top img:hover {
+    background-color: #333;
+}

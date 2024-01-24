@@ -25,6 +25,7 @@ header {
     text-align: center;
 }
 
+/* change the header image $ dimensions */
 header img {
     width: 100px;
     margin-bottom: 1rem;
@@ -69,7 +70,7 @@ nav {
     padding: 20px 7%;
 }
 
-/* change the logo photo */
+/* change the logo image $ dimensions */
 nav img {
     height: 40px;
 }
@@ -112,6 +113,7 @@ section h2 {
     line-height: 20px;
 }
 
+/* change the about image */
 #about img {
     margin-top: 50px;
 }
@@ -129,7 +131,7 @@ section h2 {
     text-align: center;
 }
 
-/* change border-radius */
+/* change the service image $ dimensions */
 .service img {
     width: 150px;
     margin-bottom: 1rem;
